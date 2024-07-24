@@ -3,7 +3,7 @@ name: Docker Build
 on:
   workflow_call:
     inputs:
-      # Define any inputs that the workflow require
+      # Define any inputs that the workflow requir
       docker_username:
         required: true
         type: string
