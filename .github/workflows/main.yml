@@ -1,6 +1,6 @@
 name: main workflow
 on:
-inputs:
+   inputs:
       # Define any inputs that the workflow requires
       docker_username:
         required: true
